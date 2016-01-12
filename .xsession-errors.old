@@ -1,0 +1,35 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: upstart-event-bridge main process (1445) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1451) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1461) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1469) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1477) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1481) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1485) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1489) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1494) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1497) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1504) terminated with status 1
+upstart: upstart-event-bridge respawning too fast, stopped
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd respawning too fast, stopped

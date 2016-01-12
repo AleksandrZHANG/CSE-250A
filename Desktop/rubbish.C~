@@ -1,0 +1,71 @@
+int num[15];
+int length(int n)		/*length of an address*/
+{
+  int s=0;
+  while(n)
+  {
+    n/=16;
+    s++;
+  }
+  return s;
+}
+
+void HextoOct(int n)		/*store address in num[15]*/
+{
+  int i=0;
+  while(n)
+  {
+    num[i++]=n%16;
+    n/=16;
+  }
+}
+
+int tag=0;			//buffer tag
+int predictor[16][2];
+int addrl=0;			//fill num
+int index=0;
+
+void init_predictor ()
+{
+  for(int i=0;i<16;i++)		//initial weakly taken
+  {
+    predictor[i][0]=2;
+    predictor[i][1]=0;
+  }
+}
+
+bool make_prediction (unsigned int pc)
+{
+  if (predictor[index][0]<2)
+    predict=false;
+  else
+    predict=true;
+  return predict;
+}
+
+void train_predictor (unsigned int pc, bool outcome)
+{
+  addrl=length(pc);
+  HextoOct(pc);
+  index= num[addrl-1];
+  if (outcome==false)
+  {
+    if (predictor[index][0]>=2)
+       predictor[index][0]--;
+    else
+       predictor[index][0]=0;
+  }
+  else if (outcome==true)
+  {
+    if (predictor[index][1]!=tag)	//buffer miss
+    {
+      predictor[index][1]=tag;		//renew buffer tag
+      predictor[index][0]=2;		//branch taken-->change to weakly taken
+    }    
+    else if (predictor[index][0]>=2)
+       predictor[index][0]=4;
+    else
+       predictor[index][0]++;
+  }
+  tag=num[addrl-4]*16*16+num[addrl-3]*16+num[addrl-2];//buffer tag computation
+}

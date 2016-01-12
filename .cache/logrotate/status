@@ -1,0 +1,19 @@
+logrotate state -- version 2
+"/home/aleksandrz/.cache/upstart/unity-panel-service-lockscreen.log" 2015-10-25-12:55:16
+"/home/aleksandrz/.cache/upstart/indicator-bluetooth.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/dbus.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/indicator-keyboard.log" 2015-10-22-18:11:4
+"/home/aleksandrz/.cache/upstart/gnome-keyring-gpg.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/update-notifier-release.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/unity-panel-service.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/indicator-session.log" 2016-1-11-14:30:12
+"/home/aleksandrz/.cache/upstart/unity7.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/gnome-keyring-ssh.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/update-notifier-cds.log" 2016-1-11-15:1:9
+"/home/aleksandrz/.cache/upstart/update-notifier-crash-_var_crash__sbin_upstart.119.crash.log" 2016-1-10-21:41:22
+"/home/aleksandrz/.cache/upstart/indicator-sound.log" 2016-1-11-19:52:51
+"/home/aleksandrz/.cache/upstart/upstart-event-bridge.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/window-stack-bridge.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/unity-settings-daemon.log" 2016-1-11-19:49:54
+"/home/aleksandrz/.cache/upstart/hud.log" 2015-10-23-14:24:18
+"/home/aleksandrz/.cache/upstart/ssh-agent.log" 2016-1-11-19:49:54

@@ -1,0 +1,14 @@
+
+** (unity-settings-daemon:1851): WARNING **: Attempted to init Xsync, found version 3.1 error base 134 event base 83
+
+No protocol specified
+check_gl_texture_size: Unable to open display :0
+** (unity-settings-daemon:1851): WARNING **: GL_MAX_TEXTURE_SIZE helper quit unexpectedly
+
+** (unity-settings-daemon:1851): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:1851): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(unity-settings-daemon:1851): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(unity-settings-daemon:1851): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output

@@ -1,0 +1,1 @@
+bunzip2 -c -k ../traces/DIST-INT-1.bz2 | ./predictor
