@@ -2,7 +2,7 @@
 #include "DictionaryTrie.hpp"
 
 /* Create a new Dictionary that uses a Trie back end */
-DictionaryTrie::DictionaryTrie(){}
+DictionaryTrie::DictionaryTrie():root(nullptr) {}
 
 /* Insert a word with its frequency into the dictionary.
  * Return true if the word was inserted, and false if it
@@ -10,13 +10,66 @@ DictionaryTrie::DictionaryTrie(){}
  * invalid (empty string) */
 bool DictionaryTrie::insert(std::string word, unsigned int freq)
 {
-  return false;
+    bool flag = false;
+    if (word.empty()) {
+        return flag;
+    }
+    if (root == nullptr) {
+        root = new TSTNode(word[0]);
+    }
+    TSTNode* curr = root;
+    int l = word.length();
+    int i = 0;
+    while(i < l) {
+        if (word[i] == curr->letter) {
+            if (i == (l-1)) {
+                curr->freq = freq;
+                return flag;
+            }
+            if (curr->middle == 0) {
+                curr->middle = new TSTNode(word[i+1]);
+                flag = true;
+            }
+            curr = curr->middle;
+            i++;
+        }
+        if (word[i] < curr->letter) {
+            if (curr->left == 0) {
+                curr->left = new TSTNode(word[i]);
+                flag = true;
+            }
+            curr = curr->left;
+        }
+        if (word[i] > curr->letter) {
+            if (curr->right == 0) {
+                curr->right = new TSTNode(word[i]);
+                flag = true;
+            }
+            curr = curr->right;
+        }
+    }
+    return flag;
 }
 
 /* Return true if word is in the dictionary, and false otherwise */
 bool DictionaryTrie::find(std::string word) const
 {
-  return false;
+    TSTNode* curr = root;
+    for (int i = 0; i < word.length(); i++) {
+        while (curr->letter != word[i]) {
+            if (word[i] < curr->letter) {
+                curr = curr->left;
+            }
+            if (word[i] > curr->letter) {
+                curr = curr->right;
+            }
+            if (curr == 0) {
+                return false;
+            }
+        }
+        curr = curr->middle;
+    }
+    return true;
 }
 
 /* Return up to num_completions of the most frequent completions

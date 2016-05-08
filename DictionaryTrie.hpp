@@ -15,6 +15,7 @@
  *  or a ternary search trie, but you must use one or the other.
  *
  */
+
 class DictionaryTrie
 {
 public:
@@ -49,6 +50,17 @@ public:
 
 private:
   // Add your own data members and methods here
+    class TSTNode{
+    public:
+        unsigned int freq;
+        const char letter;
+        TSTNode* left;
+        TSTNode* right;
+        TSTNode* middle;
+        TSTNode(const char & c): left(0),right(0),middle(0),freq(0),letter(c) {};
+        // If freq == 0, this node is not an terminal node.
+    };
+    TSTNode* root;
 };
 
 #endif // DICTIONARY_TRIE_HPP
