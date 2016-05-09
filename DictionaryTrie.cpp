@@ -62,6 +62,9 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
 bool DictionaryTrie::find(std::string word) const
 {
     TSTNode* curr = root;
+    if (curr == 0) {
+        return false;
+    }
     int l = word.length();
     for (int i = 0; i < l; i++) {
         while (curr->letter != word[i]) {
