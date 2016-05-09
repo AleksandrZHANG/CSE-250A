@@ -67,7 +67,6 @@ bool DictionaryTrie::find(std::string word) const
     }
     int l = word.length();
     for (int i = 0; i < l; i++) {
-        std::cout << i << std::endl;
         while (curr->letter != word[i]) {
             if (word[i] < curr->letter) {
                 curr = curr->left;
