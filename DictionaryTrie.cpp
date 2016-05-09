@@ -24,6 +24,7 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
         if (word[i] == curr->letter) {
             if (i == (l-1)) {
                 curr->freq = freq;
+                flag = true;
             	if (curr->middle == 0) {
                     curr->middle = new TSTNode(word[i+1]);
                     flag = true;
