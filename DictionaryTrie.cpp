@@ -64,9 +64,6 @@ bool DictionaryTrie::find(std::string word) const
     TSTNode* curr = root;
     int l = word.length();
     for (int i = 0; i < l; i++) {
-        if (curr == 0) {
-            return false;
-        }
         while (curr->letter != word[i]) {
             if (word[i] < curr->letter) {
                 curr = curr->left;
@@ -79,6 +76,9 @@ bool DictionaryTrie::find(std::string word) const
             }
         }
         if ((i == (l-1)) && (curr->freq == 0)) {
+            return false;
+        }
+        if (curr->middle == 0) {
             return false;
         }
         curr = curr->middle;
