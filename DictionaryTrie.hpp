@@ -63,7 +63,7 @@ private:
     };
     TSTNode* root;
     
-    void dfs(std::string & prefix, TSTNode* node,
+    void dfs(std::string & prefix, TSTNode* & node,
              std::priority_queue< std::pair<unsigned int, std::string> > & pq) {
         if (node == 0) {
             return;
