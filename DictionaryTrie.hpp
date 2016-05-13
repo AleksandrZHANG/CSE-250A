@@ -54,6 +54,7 @@ private:
     class TSTNode{
     public:
         unsigned int freq;
+        unsigned int maxfreq;
         const char letter;
         TSTNode* left;
         TSTNode* right;
