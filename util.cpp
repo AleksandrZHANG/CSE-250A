@@ -86,7 +86,10 @@ void Utils::load_dict(DictionaryBST& dict, istream& words, unsigned int num_word
   for(; j < num_words; j++)
     {
       getline(words, data);
-      if(words.eof()) break;
+      if(words.eof()){
+          std::cout << "Warning: there are fewer than min_size+i*step_size words in the file" << std::endl;
+          break;
+      }
       temp_word = "";
       word = "";
       data = data + " .";
@@ -162,7 +165,10 @@ void Utils::load_dict(DictionaryHashtable& dict, istream& words, unsigned int nu
   for(; j < num_words; j++)
     {
       getline(words, data);
-      if(words.eof()) break;
+      if(words.eof()){
+          std::cout << "Warning: there are fewer than min_size+i*step_size words in the file" << std::endl;
+          break;
+      }
       temp_word = "";
       word = "";
       data = data + " .";
@@ -236,7 +242,10 @@ void Utils::load_dict(DictionaryTrie& dict, istream& words, unsigned int num_wor
   for(; j < num_words; j++)
     {
       getline(words, data);
-      if(words.eof()) break;
+      if(words.eof()){
+          std::cout << "Warning: there are fewer than min_size+i*step_size words in the file" << std::endl;
+          break;
+      }
       temp_word = "";
       word = "";
       data = data + " .";
