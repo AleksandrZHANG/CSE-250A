@@ -58,7 +58,7 @@ public:
         TSTNode* left;
         TSTNode* right;
         TSTNode* middle;
-        TSTNode(const char & c): left(0),right(0),middle(0),freq(0),letter(c) {};
+        TSTNode(const char & c): freq(0),letter(c),left(0),right(0),middle(0) {};
         // If freq == 0, this node is not an terminal node.
     };
     TSTNode* root;
