@@ -16,7 +16,7 @@ using std::vector;
  */
 void Timer::begin_timer() {
 
-  start = std::chrono::high_resolution_clock::now();
+  start = std::chrono::high_resolution_clock::now(); // Get current time
 
 }
 
@@ -26,10 +26,10 @@ void Timer::begin_timer() {
 long long Timer::end_timer() {
 
   std::chrono::time_point<std::chrono::high_resolution_clock> end;
-  end = std::chrono::high_resolution_clock::now();
+  end = std::chrono::high_resolution_clock::now(); // Get current time
 
   return (long long)std::chrono::duration_cast<std::chrono::nanoseconds>(end-start).count();
-
+    // return the time difference between start and end, in nanoseconds.
 }
 
 
