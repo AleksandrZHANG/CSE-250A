@@ -63,19 +63,16 @@ private:
     };
     TSTNode* root;
     
-    void dfs(std::string & prefix, TSTNode* & node,
-             std::priority_queue< std::pair<unsigned int, std::string> > & pq) {
-        if (node == 0) {
+    void dfs(std::string & prefix, TSTNode* & node, std::priority_queue< std::pair<unsigned int, std::string> > & pq){
+        if (node == 0)
             return;
-        }
         std::string tmp = prefix;
         tmp.push_back(node->letter);
-        if (node->freq != 0) {
+        if (node->freq != 0)
             pq.push(make_pair(node->freq, tmp));
-        }
-        if(node->left != 0) dfs(prefix, node->left, pq);
-        if(node->middle != 0) dfs(tmp, node->middle, pq);
-        if(node->right != 0) dfs(prefix, node->right, pq);
+        dfs(prefix, node->left, pq);
+        dfs(tmp, node->middle, pq);
+        dfs(prefix, node->right, pq);
     }
 };
 
