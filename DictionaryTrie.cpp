@@ -20,12 +20,10 @@ DictionaryTrie::DictionaryTrie():root(nullptr) {}
 bool DictionaryTrie::insert(std::string word, unsigned int freq)
 {
     bool flag = false;
-    if (word.empty()) {
+    if (word.empty())
         return flag;
-    }
-    if (root == nullptr) {
+    if (root == nullptr)
         root = new TSTNode(word[0]);
-    }
     TSTNode* curr = root;
     int l = word.length();
     int i = 0;
@@ -105,10 +103,11 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
 {
     std::priority_queue< std::pair<unsigned int, std::string> > pq;
     std::vector<std::string> words;
+    if (prefix.empty() || num_completions<=0)
+	return words;
     TSTNode* curr = root;
-    if (root == 0) {
+    if (root == 0)
         return words;
-    }
     // Find the last letter of prefix
     int l = prefix.length();
     for (int i = 0; i < l; i++) {
