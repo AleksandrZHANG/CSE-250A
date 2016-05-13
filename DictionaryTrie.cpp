@@ -1,3 +1,9 @@
+/**
+ *  CSE 100 PA3
+ *  Authors: Yihong Zhang, Hao Gai
+ *  Date: 5.11.2016 
+*/
+
 #include "util.hpp"
 #include "DictionaryTrie.hpp"
 #include <queue>
@@ -124,7 +130,7 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
     }
     // Depth first search on TSTtrie root from curr.
     dfs(prefix, curr, pq);
-    for (int i = 0; (i < num_completions) && (i <= pq.size()); i++) {
+    for (unsigned int i = 0; (i < num_completions) && (i <= pq.size()); i++){
         words.push_back(pq.top().second);
         pq.pop();
     }
