@@ -49,7 +49,7 @@ public:
   /* Destructor */
   ~DictionaryTrie();
 
-public:
+private:
   // Add your own data members and methods here
     class TSTNode{
     public:
@@ -63,7 +63,7 @@ public:
     };
     TSTNode* root;
     
-    void dfs(std::string prefix, TSTNode* node,
+    void dfs(std::string & prefix, TSTNode* & node,
              std::priority_queue< std::pair<unsigned int, std::string> > & pq) {
         if (node == 0) {
             return;
@@ -73,9 +73,9 @@ public:
         if (node->freq != 0) {
             pq.push(make_pair(node->freq, tmp));
         }
-        dfs(prefix, node->left, pq);
-        dfs(tmp, node->middle, pq);
-        dfs(prefix, node->right, pq);
+        if(node->left != 0) dfs(prefix, node->left, pq);
+        if(node->middle != 0) dfs(tmp, node->middle, pq);
+        if(node->right != 0) dfs(prefix, node->right, pq);
     }
 };
 
