@@ -25,7 +25,7 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
     if (root == nullptr)
         root = new TSTNode(word[0]);
     TSTNode* curr = root;
-    for(int i=0; i<word.length(); i++) {
+    for(unsigned int i=0; i<word.length(); i++) {
         if (word[i] < curr->letter) {
             if (curr->left == 0) {
                 curr->left = new TSTNode(word[i]);
@@ -41,7 +41,7 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
             curr = curr->right;
         }
         else {
-           if (i == (l-1)) {
+           if (i == (word.length()-1)) {
                 if (curr->freq == 0) {
                     curr->freq = freq;
                     flag = true;
