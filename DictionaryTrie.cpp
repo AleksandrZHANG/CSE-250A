@@ -91,20 +91,6 @@ bool DictionaryTrie::find(std::string word) const
     return true;
 }
 
-void dfs(std::string prefix, TSTNode* node,
-             std::priority_queue< std::pair<unsigned int, std::string> > & pq) {
-        if (node == 0) {
-            return;
-        }
-        std::string tmp = prefix;
-        tmp.push_back(node->letter);
-        if (node->freq != 0) {
-            pq.push(make_pair(node->freq, tmp));
-        }
-        dfs(prefix, node->left, pq);
-        dfs(tmp, node->middle, pq);
-        dfs(prefix, node->right, pq);
-    }
 /* Return up to num_completions of the most frequent completions
  * of the prefix, such that the completions are words in the dictionary.
  * These completions should be listed from most frequent to least.
@@ -120,21 +106,26 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
     std::priority_queue< std::pair<unsigned int, std::string> > pq;
     std::vector<std::string> words;
     TSTNode* curr = root;
-    if (root == 0)
+    if (root == 0) {
         return words;
+    }
     // Find the last letter of prefix
     int l = prefix.length();
     for (int i = 0; i < l; i++) {
         while (curr->letter != prefix[i]) {
-            if (prefix[i] < curr->letter)
+            if (prefix[i] < curr->letter) {
                 curr = curr->left;
-            else if (prefix[i] > curr->letter)
+            }
+            else if (prefix[i] > curr->letter) {
                 curr = curr->right;
-            if (curr == 0)
+            }
+            if (curr == 0) {
                 return words;
+            }
         }
-        if ((i == (l-1)) && (curr->freq != 0))
+        if ((i == (l-1)) && (curr->freq != 0)) {
             pq.push(make_pair(curr->freq, prefix));
+        }
         curr = curr->middle;
     }
     // Depth first search on TSTtrie root from curr.
