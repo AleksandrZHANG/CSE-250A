@@ -73,9 +73,9 @@ private:
         if (node->freq != 0) {
             pq.push(make_pair(node->freq, tmp));
         }
-        dfs(prefix, node->left, pq);
-        dfs(tmp, node->middle, pq);
-        dfs(prefix, node->right, pq);
+        if(node->left != 0) dfs(prefix, node->left, pq);
+        if(node->middle != 0) dfs(tmp, node->middle, pq);
+        if(node->right != 0) dfs(prefix, node->right, pq);
     }
 };
 
