@@ -1,5 +1,8 @@
 #include "util.hpp"
 #include "DictionaryTrie.hpp"
+#include <queue>
+#include <utility>
+#include <stack>
 
 /* Create a new Dictionary that uses a Trie back end */
 DictionaryTrie::DictionaryTrie():root(nullptr) {}
@@ -27,11 +30,7 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
                     curr->freq = freq;
                     flag = true;
                 }
-            	if (curr->middle == 0) {
-                    curr->middle = new TSTNode(word[i+1]);
-                    flag = true;
-                }
-		return flag;
+                return flag;
             }
             if (curr->middle == 0) {
                 curr->middle = new TSTNode(word[i+1]);
@@ -98,9 +97,53 @@ bool DictionaryTrie::find(std::string word) const
  */
 std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, unsigned int num_completions)
 {
-  std::vector<std::string> words;
-  return words;
+    std::priority_queue< std::pair<unsigned int, std::string> > pq;
+    std::vector<std::string> words;
+    TSTNode* curr = root;
+    if (root == 0) {
+        return words;
+    }
+    // Find the last letter of prefix
+    int l = prefix.length();
+    for (int i = 0; i < l; i++) {
+        while (curr->letter != prefix[i]) {
+            if (prefix[i] < curr->letter) {
+                curr = curr->left;
+            }
+            else if (prefix[i] > curr->letter) {
+                curr = curr->right;
+            }
+            if (curr == 0) {
+                return words;
+            }
+        }
+        if ((i == (l-1)) && (curr->freq != 0)) {
+            pq.push(make_pair(curr->freq, prefix));
+        }
+        curr = curr->middle;
+    }
+    // Depth first search on TSTtrie root from curr.
+    dfs(prefix, curr, pq);
+    for (int i = 0; (i < num_completions) && (i <= pq.size()); i++) {
+        words.push_back(pq.top().second);
+        pq.pop();
+    }
+    return words;
 }
+/*void dfs(std::string prefix, DictionaryTrie::TSTNode* node,
+         std::priority_queue< std::pair<unsigned int, std::string> > & pq) {
+    if (node == 0) {
+        return;
+    }
+    std::string tmp = prefix;
+    tmp.push_back(node->letter);
+    if (node->freq != 0) {
+        pq.push(make_pair(node->freq, tmp));
+    }
+    dfs(prefix, node->left, pq);
+    dfs(tmp, node->middle, pq);
+    dfs(prefix, node->right, pq);
+}*/
 
 /* Destructor */
 DictionaryTrie::~DictionaryTrie(){}

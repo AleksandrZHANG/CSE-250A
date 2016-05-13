@@ -8,6 +8,7 @@
 
 #include <vector>
 #include <string>
+#include <queue>
 
 /**
  *  The class for a dictionary ADT, implemented as a trie
@@ -48,7 +49,7 @@ public:
   /* Destructor */
   ~DictionaryTrie();
 
-private:
+public:
   // Add your own data members and methods here
     class TSTNode{
     public:
@@ -61,6 +62,21 @@ private:
         // If freq == 0, this node is not an terminal node.
     };
     TSTNode* root;
+    
+    void dfs(std::string prefix, TSTNode* node,
+             std::priority_queue< std::pair<unsigned int, std::string> > & pq) {
+        if (node == 0) {
+            return;
+        }
+        std::string tmp = prefix;
+        tmp.push_back(node->letter);
+        if (node->freq != 0) {
+            pq.push(make_pair(node->freq, tmp));
+        }
+        dfs(prefix, node->left, pq);
+        dfs(tmp, node->middle, pq);
+        dfs(prefix, node->right, pq);
+    }
 };
 
 #endif // DICTIONARY_TRIE_HPP
