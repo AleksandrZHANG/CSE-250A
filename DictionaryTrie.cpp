@@ -103,7 +103,7 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
 {
     std::priority_queue< std::pair<unsigned int, std::string> > pq;
     std::vector<std::string> words;
-    if (prefix.empty() || num_completions<=0)
+    if (prefix.empty() || num_completions <= 0)
 	return words;
     TSTNode* curr = root;
     if (root == 0)
@@ -111,20 +111,16 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
     // Find the last letter of prefix
     int l = prefix.length();
     for (int i = 0; i < l; i++) {
-        while (curr->letter != prefix[i]) {
-            if (prefix[i] < curr->letter) {
-                curr = curr->left;
-            }
-            else if (prefix[i] > curr->letter) {
-                curr = curr->right;
-            }
-            if (curr == 0) {
+        while (curr->letter != prefix[i]){
+            if (curr == 0)
                 return words;
-            }
+            if (prefix[i] < curr->letter)
+                curr = curr->left;
+            else if (prefix[i] > curr->letter)
+                curr = curr->right;
         }
-        if ((i == (l-1)) && (curr->freq != 0)) {
+        if ((i == (l-1)) && (curr->freq != 0))
             pq.push(make_pair(curr->freq, prefix));
-        }
         curr = curr->middle;
     }
     // Depth first search on TSTtrie root from curr.
