@@ -10,7 +10,6 @@
 #include <string>
 #include <queue>
 #include <set>
-#include <iostream>
 
 /**
  *  The class for a dictionary ADT, implemented as a trie
@@ -68,25 +67,22 @@ public:
     
     void dfs(std::string & prefix, TSTNode* node,
              std::priority_queue< std::pair<unsigned int, std::string> > & pq,
-             std::set<unsigned int> & sorter, unsigned int num) {
+             unsigned int num) {
         if (node == 0) {
-            return;
-        }
-        if (node->max_freq < *sorter.cbegin()) {
             return;
         }
         std::string tmp = prefix;
         tmp.push_back(node->letter);
         if (node->freq != 0) {
             pq.push(make_pair(node->freq, tmp));
-            sorter.insert(node->freq);
-            if (sorter.size() > num) {
-                sorter.erase(*sorter.cbegin());
+        }
+        dfs(prefix, node->left, pq, num);
+        dfs(tmp, node->middle, pq, num);
+        if (!pq.empty()) {
+            if ((pq.size() < num)||(node->max_freq > pq.top().first)) {
+                dfs(prefix, node->right, pq, num);
             }
         }
-        dfs(prefix, node->left, pq, sorter, num);
-        dfs(tmp, node->middle, pq, sorter, num);
-        dfs(prefix, node->right, pq, sorter, num);
     }
 };
 

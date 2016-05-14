@@ -2,7 +2,6 @@
 #include "DictionaryTrie.hpp"
 #include <queue>
 #include <utility>
-#include <set>
 
 /* Create a new Dictionary that uses a Trie back end */
 DictionaryTrie::DictionaryTrie():root(nullptr) {}
@@ -123,9 +122,7 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
         curr = curr->middle;
     }
     // Depth first search on TSTtrie root from curr.
-    std::set<unsigned int> sorter;
-    sorter.insert(0);
-    dfs(prefix, curr, pq, sorter, num_completions);
+    dfs(prefix, curr, pq, num_completions);
     unsigned int size = pq.size();
     for (unsigned int i = 0; (i < num_completions) && (i < size); i++) {
         words.push_back(pq.top().second);
