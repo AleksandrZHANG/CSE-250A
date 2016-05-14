@@ -125,7 +125,7 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
     dfs(prefix, curr, pq, num_completions);
     unsigned int size = pq.size();
     words.resize(size);
-    for (unsigned int i = 0; (i < num_completions) && (i < size); i++) {
+    for (unsigned int i = 0; i < size; i++) {
         words[size-1-i] = pq.top().second;
         pq.pop();
     }

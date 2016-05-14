@@ -9,7 +9,7 @@
 #include <vector>
 #include <string>
 #include <queue>
-#include <set>
+#include <iostream>
 
 /**
  *  The class for a dictionary ADT, implemented as a trie
@@ -21,7 +21,13 @@ class compare {
 public:
     bool operator()(std::pair<unsigned int, std::string>& a,
                     std::pair<unsigned int, std::string>& b) const {
-        return (a < b);
+        if (a.first > b.first) {
+            return true;
+        }
+        else if (a.first < b.first) {
+            return false;
+        }
+        return a.second < b.second;
     }
 };
 class DictionaryTrie
@@ -86,12 +92,11 @@ private:
             pq.push(make_pair(node->freq, tmp));
             pq.pop();
         }
+        
         dfs(prefix, node->left, pq, num);
         dfs(prefix, node->right, pq, num);
-        if (!pq.empty()) {
-            if ((pq.size() < num)||(node->max_freq > pq.top().first)) {
-                dfs(tmp, node->middle, pq, num);
-            }
+        if ((pq.size() < num)||(node->max_freq > pq.top().first)) {
+            dfs(tmp, node->middle, pq, num);
         }
     }
 };
