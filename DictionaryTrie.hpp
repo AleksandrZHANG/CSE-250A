@@ -9,6 +9,8 @@
 #include <vector>
 #include <string>
 #include <queue>
+#include <set>
+#include <iostream>
 
 /**
  *  The class for a dictionary ADT, implemented as a trie
@@ -20,60 +22,71 @@
 class DictionaryTrie
 {
 public:
-
-  /* Create a new Dictionary that uses a Trie back end */
-  DictionaryTrie();
-
-  /* Insert a word with its frequency into the dictionary.
-   * Return true if the word was inserted, and false if it
-   * was not (i.e. it was already in the dictionary or it was
-   * invalid (empty string) */
-  bool insert(std::string word, unsigned int freq);
-
-  /* Return true if word is in the dictionary, and false otherwise */
-  bool find(std::string word) const;
-
-  /* Return up to num_completions of the most frequent completions
-   * of the prefix, such that the completions are words in the dictionary.
-   * These completions should be listed from most frequent to least.
-   * If there are fewer than num_completions legal completions, this
-   * function returns a vector with as many completions as possible.
-   * If no completions exist, then the function returns a vector of size 0.
-   * The prefix itself might be included in the returned words if the prefix
-   * is a word (and is among the num_completions most frequent completions
-   * of the prefix)
-   */
-  std::vector<std::string>
-  predictCompletions(std::string prefix, unsigned int num_completions);
-
-  /* Destructor */
-  ~DictionaryTrie();
-
-private:
-  // Add your own data members and methods here
+    
+    /* Create a new Dictionary that uses a Trie back end */
+    DictionaryTrie();
+    
+    /* Insert a word with its frequency into the dictionary.
+     * Return true if the word was inserted, and false if it
+     * was not (i.e. it was already in the dictionary or it was
+     * invalid (empty string) */
+    bool insert(std::string word, unsigned int freq);
+    
+    /* Return true if word is in the dictionary, and false otherwise */
+    bool find(std::string word) const;
+    
+    /* Return up to num_completions of the most frequent completions
+     * of the prefix, such that the completions are words in the dictionary.
+     * These completions should be listed from most frequent to least.
+     * If there are fewer than num_completions legal completions, this
+     * function returns a vector with as many completions as possible.
+     * If no completions exist, then the function returns a vector of size 0.
+     * The prefix itself might be included in the returned words if the prefix
+     * is a word (and is among the num_completions most frequent completions
+     * of the prefix)
+     */
+    std::vector<std::string>
+    predictCompletions(std::string prefix, unsigned int num_completions);
+    
+    /* Destructor */
+    ~DictionaryTrie();
+    
+public:
+    // Add your own data members and methods here
     class TSTNode{
     public:
         unsigned int freq;
-        unsigned int maxfreq;
+        unsigned int max_freq;
         const char letter;
         TSTNode* left;
         TSTNode* right;
         TSTNode* middle;
-        TSTNode(const char & c): freq(0),maxfreq(0),letter(c),left(0),right(0),middle(0) {};
+        TSTNode(const char & c): freq(0),max_freq(0),letter(c),left(0),right(0),middle(0) {};
         // If freq == 0, this node is not an terminal node.
     };
     TSTNode* root;
     
-    void dfs(std::string & prefix, TSTNode* & node, std::priority_queue< std::pair<unsigned int, std::string> > & pq){
-        if (node == 0)
+    void dfs(std::string & prefix, TSTNode* node,
+             std::priority_queue< std::pair<unsigned int, std::string> > & pq,
+             std::set<unsigned int> & sorter, unsigned int num) {
+        if (node == 0) {
             return;
+        }
+        if (node->max_freq < *sorter.cbegin()) {
+            return;
+        }
         std::string tmp = prefix;
         tmp.push_back(node->letter);
-        if (node->freq != 0)
+        if (node->freq != 0) {
             pq.push(make_pair(node->freq, tmp));
-        dfs(prefix, node->left, pq);
-        dfs(tmp, node->middle, pq);
-        dfs(prefix, node->right, pq);
+            sorter.insert(node->freq);
+            if (sorter.size() > num) {
+                sorter.erase(*sorter.cbegin());
+            }
+        }
+        dfs(prefix, node->left, pq, sorter, num);
+        dfs(tmp, node->middle, pq, sorter, num);
+        dfs(prefix, node->right, pq, sorter, num);
     }
 };
 

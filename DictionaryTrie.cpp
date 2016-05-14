@@ -1,14 +1,8 @@
-/**
- *  CSE 100 PA3
- *  Authors: Yihong Zhang, Hao Gai
- *  Date: 5.11.2016 
-*/
-
 #include "util.hpp"
 #include "DictionaryTrie.hpp"
 #include <queue>
 #include <utility>
-#include <stack>
+#include <set>
 
 /* Create a new Dictionary that uses a Trie back end */
 DictionaryTrie::DictionaryTrie():root(nullptr) {}
@@ -20,28 +14,21 @@ DictionaryTrie::DictionaryTrie():root(nullptr) {}
 bool DictionaryTrie::insert(std::string word, unsigned int freq)
 {
     bool flag = false;
-    if (word.empty())
+    if (word.empty()) {
         return flag;
-    if (root == nullptr)
+    }
+    if (root == nullptr) {
         root = new TSTNode(word[0]);
+    }
     TSTNode* curr = root;
-    for(unsigned int i=0; i<word.length(); i++) {
-        if (word[i] < curr->letter) {
-            if (curr->left == 0) {
-                curr->left = new TSTNode(word[i]);
-                flag = true;
-            }
-            curr = curr->left;
+    int l = word.length();
+    int i = 0;
+    while(i < l) {
+        if (freq > curr->max_freq) {
+            curr->max_freq = freq;
         }
-        else if (word[i] > curr->letter) {
-            if (curr->right == 0) {
-                curr->right = new TSTNode(word[i]);
-                flag = true;
-            }
-            curr = curr->right;
-        }
-        else {
-           if (i == (word.length()-1)) {
+        if (word[i] == curr->letter) {
+            if (i == (l-1)) {
                 if (curr->freq == 0) {
                     curr->freq = freq;
                     flag = true;
@@ -53,6 +40,21 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
                 flag = true;
             }
             curr = curr->middle;
+            i++;
+        }
+        if (word[i] < curr->letter) {
+            if (curr->left == 0) {
+                curr->left = new TSTNode(word[i]);
+                flag = true;
+            }
+            curr = curr->left;
+        }
+        if (word[i] > curr->letter) {
+            if (curr->right == 0) {
+                curr->right = new TSTNode(word[i]);
+                flag = true;
+            }
+            curr = curr->right;
         }
     }
     return flag;
@@ -100,29 +102,34 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
 {
     std::priority_queue< std::pair<unsigned int, std::string> > pq;
     std::vector<std::string> words;
-    if (prefix.empty() || num_completions <= 0)
-	return words;
     TSTNode* curr = root;
-    if (root == 0)
+    if (root == 0) {
         return words;
+    }
     // Find the last letter of prefix
     int l = prefix.length();
     for (int i = 0; i < l; i++) {
-        while (curr->letter != prefix[i]){
-            if (curr == 0)
-                return words;
-            if (prefix[i] < curr->letter)
+        while (curr->letter != prefix[i]) {
+            if (prefix[i] < curr->letter) {
                 curr = curr->left;
-            else if (prefix[i] > curr->letter)
+            }
+            else if (prefix[i] > curr->letter) {
                 curr = curr->right;
+            }
+            if (curr == 0) {
+                return words;
+            }
         }
-        if ((i == (l-1)) && (curr->freq != 0))
+        if ((i == (l-1)) && (curr->freq != 0)) {
             pq.push(make_pair(curr->freq, prefix));
+        }
         curr = curr->middle;
     }
     // Depth first search on TSTtrie root from curr.
-    dfs(prefix, curr, pq);
-    unsigned size = pq.size();
+    std::set<unsigned int> sorter;
+    sorter.insert(0);
+    dfs(prefix, curr, pq, sorter, num_completions);
+    unsigned int size = pq.size();
     for (unsigned int i = 0; (i < num_completions) && (i < size); i++) {
         words.push_back(pq.top().second);
         pq.pop();
