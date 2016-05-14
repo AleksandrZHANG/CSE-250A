@@ -21,7 +21,7 @@ class compare {
 public:
     bool operator()(std::pair<unsigned int, std::string>& a,
                     std::pair<unsigned int, std::string>& b) const {
-        return (a > b);
+        return (a < b);
     }
 };
 class DictionaryTrie
