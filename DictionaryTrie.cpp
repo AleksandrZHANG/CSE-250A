@@ -43,7 +43,7 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
             curr = curr->right;
         }
         else {
-           if (i == (l-1)) {
+            if (i == (l-1)) {
                 if (curr->freq == 0) {
                     curr->freq = freq;
                     flag = true;
@@ -55,6 +55,7 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
                 flag = true;
             }
             curr = curr->middle;
+            i++;
         }
     }
     return flag;
