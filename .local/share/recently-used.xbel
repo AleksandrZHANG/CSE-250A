@@ -197,7 +197,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/aleksandrz/pa1/CheckpointQuestions.txt" added="2016-01-11T07:40:17Z" modified="2016-01-12T04:19:54Z" visited="2016-01-11T07:40:18Z">
+  <bookmark href="file:///home/aleksandrz/pa1/CheckpointQuestions.txt" added="2016-01-11T07:40:17Z" modified="2016-04-04T04:50:09Z" visited="2016-01-11T07:40:18Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -206,12 +206,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-11T23:34:58Z" count="3"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-12T04:19:54Z" count="18"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-04T04:50:09Z" count="23"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/aleksandrz/pa1/BSTNode.hpp" added="2016-01-11T23:43:06Z" modified="2016-01-11T23:43:06Z" visited="2016-01-11T23:43:06Z">
+  <bookmark href="file:///home/aleksandrz/pa1/BSTNode.hpp" added="2016-01-11T23:43:06Z" modified="2016-04-05T03:40:00Z" visited="2016-01-11T23:43:06Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-c++hdr"/>
@@ -219,12 +219,13 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-11T23:43:06Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:40:00Z" count="81"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-04T04:46:41Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/aleksandrz/pa1/BST.hpp" added="2016-01-12T00:10:22Z" modified="2016-01-12T04:20:00Z" visited="2016-01-12T00:10:22Z">
+  <bookmark href="file:///home/aleksandrz/pa1/BST.hpp" added="2016-01-12T00:10:22Z" modified="2016-04-17T06:07:04Z" visited="2016-01-12T00:10:22Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-c++hdr"/>
@@ -232,7 +233,8 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-12T04:20:00Z" count="35"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-17T06:07:04Z" count="232"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-04T04:45:52Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -246,6 +248,1563 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-12T04:41:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa1/main.cpp" added="2016-01-12T06:04:12Z" modified="2016-05-13T00:50:12Z" visited="2016-01-12T06:04:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T00:50:12Z" count="294"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-15T22:48:15Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa1/test_BST.cpp" added="2016-01-12T06:41:38Z" modified="2016-04-03T19:54:49Z" visited="2016-01-12T06:41:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-03T19:54:49Z" count="29"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-16T01:45:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa1/actors.txt" added="2016-01-14T01:21:37Z" modified="2016-04-04T03:59:53Z" visited="2016-01-14T01:21:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-04T03:59:53Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa1/BSTIterator.hpp" added="2016-01-14T01:33:02Z" modified="2016-04-05T03:30:05Z" visited="2016-01-14T01:33:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:30:05Z" count="71"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-04T04:46:07Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa1/Makefile" added="2016-01-14T21:59:25Z" modified="2016-01-14T21:59:25Z" visited="2016-01-14T21:59:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-14T21:59:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Desktop/BSTIterator.hpp" added="2016-01-16T06:36:31Z" modified="2016-01-16T06:37:52Z" visited="2016-01-16T06:36:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-16T06:37:52Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Desktop/BSTNode.hpp" added="2016-01-16T06:38:24Z" modified="2016-01-16T06:38:29Z" visited="2016-01-16T06:38:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-16T06:38:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa1/actors_sorted.txt" added="2016-01-17T04:49:43Z" modified="2016-04-04T04:00:16Z" visited="2016-01-17T04:49:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-04T04:00:16Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/HCNode.hpp" added="2016-01-21T00:46:03Z" modified="2016-04-21T20:25:38Z" visited="2016-01-21T00:46:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T20:25:38Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/checkpoint1.txt" added="2016-01-21T02:04:44Z" modified="2016-04-17T22:46:17Z" visited="2016-01-21T02:04:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-21T02:04:44Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-17T22:46:17Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/checkpoint2.txt" added="2016-01-21T02:04:50Z" modified="2016-01-26T07:54:59Z" visited="2016-01-21T02:04:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-26T07:54:59Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/pictureofdoriangray.txt" added="2016-01-21T02:04:59Z" modified="2016-01-29T07:20:09Z" visited="2016-01-21T02:05:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-29T07:20:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/theprince.txt" added="2016-01-21T02:05:06Z" modified="2016-01-21T02:05:06Z" visited="2016-01-21T02:05:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-21T02:05:06Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-21T02:05:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/lotsofA" added="2016-01-21T02:06:56Z" modified="2016-01-21T02:06:56Z" visited="2016-01-21T02:06:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-21T02:06:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/justABC" added="2016-01-21T02:07:00Z" modified="2016-01-29T07:20:31Z" visited="2016-01-21T02:07:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-29T07:20:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/empty" added="2016-01-21T02:07:03Z" modified="2016-01-21T02:07:03Z" visited="2016-01-21T02:07:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-21T02:07:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/compress.cpp" added="2016-01-21T02:07:36Z" modified="2016-04-22T05:05:33Z" visited="2016-01-21T02:07:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-22T05:05:33Z" count="285"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-21T23:30:28Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/uncompress.cpp" added="2016-01-21T04:32:54Z" modified="2016-04-22T04:56:09Z" visited="2016-01-21T04:32:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-22T04:56:09Z" count="218"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-29T07:14:30Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/Makefile" added="2016-01-21T05:27:50Z" modified="2016-04-18T15:34:05Z" visited="2016-01-21T05:27:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T15:34:05Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/BTOutputStream.hpp" added="2016-01-25T08:50:40Z" modified="2016-01-25T20:47:40Z" visited="2016-01-25T08:50:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-25T20:47:40Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/BitOutputStream.hpp" added="2016-01-25T09:08:53Z" modified="2016-04-18T17:45:57Z" visited="2016-01-25T09:08:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T17:45:57Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/BitInputStream%20.hpp" added="2016-01-25T09:09:53Z" modified="2016-01-25T20:44:26Z" visited="2016-01-25T09:09:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-25T20:44:26Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/BitInputStream.hpp" added="2016-01-25T09:20:02Z" modified="2016-01-29T07:29:13Z" visited="2016-01-25T09:20:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-29T07:29:13Z" count="22"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-29T07:29:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/BitInputStream.cpp" added="2016-01-25T18:59:40Z" modified="2016-04-18T17:42:33Z" visited="2016-01-25T18:59:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T17:42:33Z" count="84"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-29T07:28:43Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/BitOutputStream.cpp" added="2016-01-25T19:13:57Z" modified="2016-04-18T17:45:51Z" visited="2016-01-25T19:13:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T17:45:51Z" count="83"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/HCNode.cpp" added="2016-01-25T22:12:32Z" modified="2016-05-12T06:45:34Z" visited="2016-01-25T22:12:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-12T06:45:34Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/HCTree.cpp" added="2016-01-25T22:37:27Z" modified="2016-04-21T23:53:48Z" visited="2016-01-25T22:37:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T23:53:48Z" count="111"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-29T05:12:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/HCTree.hpp" added="2016-01-25T23:03:08Z" modified="2016-04-21T20:54:10Z" visited="2016-01-25T23:03:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T20:54:10Z" count="34"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-25T23:28:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/ccc.txt" added="2016-01-26T00:32:45Z" modified="2016-01-26T00:33:02Z" visited="2016-01-26T00:32:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-26T00:33:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/checkpoint1.txt" added="2016-01-26T00:32:52Z" modified="2016-04-18T17:20:55Z" visited="2016-01-26T00:32:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T17:20:55Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-01-27T07:26:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/ccc" added="2016-01-26T00:32:56Z" modified="2016-01-26T00:32:56Z" visited="2016-01-26T00:32:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-26T00:32:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/c.txt" added="2016-01-26T06:13:09Z" modified="2016-01-26T06:13:09Z" visited="2016-01-26T06:13:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-26T06:13:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/b.txt" added="2016-01-26T06:16:20Z" modified="2016-04-22T04:56:19Z" visited="2016-01-26T06:16:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-22T04:56:19Z" count="34"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-21T22:04:40Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/checkpoint2.txt" added="2016-01-27T07:39:10Z" modified="2016-01-29T07:30:56Z" visited="2016-01-27T07:39:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-29T07:30:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/input_files/justA" added="2016-01-29T07:20:19Z" modified="2016-01-29T07:20:19Z" visited="2016-01-29T07:20:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-01-29T07:20:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/DictionaryBST.cpp" added="2016-02-11T02:05:23Z" modified="2016-05-13T21:56:33Z" visited="2016-02-11T02:05:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-02-12T23:30:05Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T21:56:33Z" count="27"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/DictionaryHashtable.cpp" added="2016-02-11T02:11:31Z" modified="2016-05-13T21:52:48Z" visited="2016-02-11T02:11:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T21:52:48Z" count="16"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-02-12T05:08:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/DictionaryTrie.cpp" added="2016-02-11T02:12:19Z" modified="2016-05-14T04:16:51Z" visited="2016-02-11T02:12:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:16:51Z" count="86"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-13T22:45:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/DictionaryBST.hpp" added="2016-02-11T02:53:11Z" modified="2016-05-13T21:56:35Z" visited="2016-02-11T02:53:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T21:56:35Z" count="10"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-02-11T04:18:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/DictionaryHashtable.hpp" added="2016-02-11T04:27:37Z" modified="2016-05-13T18:06:05Z" visited="2016-02-11T04:27:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T18:06:05Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/DictionaryTrie.hpp" added="2016-02-12T07:09:32Z" modified="2016-05-14T04:16:23Z" visited="2016-02-12T07:09:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:16:23Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/DictionaryNode.hpp" added="2016-02-12T07:10:29Z" modified="2016-02-12T07:10:36Z" visited="2016-02-12T07:10:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-02-12T07:10:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/BSTNode.hpp" added="2016-02-12T07:11:42Z" modified="2016-02-12T07:11:42Z" visited="2016-02-12T07:11:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-02-12T07:11:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/util.hpp" added="2016-02-12T23:33:08Z" modified="2016-05-13T00:36:24Z" visited="2016-02-12T23:33:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T00:36:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/benchtrie.cpp" added="2016-02-12T23:53:04Z" modified="2016-05-13T06:50:03Z" visited="2016-02-12T23:53:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T06:50:03Z" count="12"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-12T04:25:06Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4638_10785_intro_optional_/hello_world.cpp" added="2016-04-03T08:25:55Z" modified="2016-04-03T08:25:55Z" visited="2016-04-03T08:25:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-03T08:25:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa0/hello_world.cpp" added="2016-04-03T08:27:51Z" modified="2016-04-03T08:38:25Z" visited="2016-04-03T08:27:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-03T08:38:25Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4651_10785_pa1_bst_in_c_/BST.hpp" added="2016-04-05T03:24:25Z" modified="2016-04-05T03:29:41Z" visited="2016-04-05T03:24:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:29:41Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4651_10785_pa1_bst_in_c_/BSTIterator.hpp" added="2016-04-05T03:29:59Z" modified="2016-04-05T03:39:52Z" visited="2016-04-05T03:29:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:39:52Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4651_10785_pa1_bst_in_c_/BSTNode.hpp" added="2016-04-05T03:40:07Z" modified="2016-04-05T03:41:01Z" visited="2016-04-05T03:40:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:41:01Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4651_10785_pa1_bst_in_c_/main.cpp" added="2016-04-05T03:41:08Z" modified="2016-04-05T03:41:42Z" visited="2016-04-05T03:41:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:41:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa1/main.cpp" added="2016-04-05T03:43:13Z" modified="2016-04-05T03:43:29Z" visited="2016-04-05T03:43:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:43:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa1/BSTNode.hpp" added="2016-04-05T03:43:16Z" modified="2016-04-05T04:29:14Z" visited="2016-04-05T03:43:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T04:29:14Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa1/BST.hpp" added="2016-04-05T03:43:53Z" modified="2016-04-05T03:45:44Z" visited="2016-04-05T03:43:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T03:45:44Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa1/CheckpointQuestions.txt" added="2016-04-05T03:46:59Z" modified="2016-04-05T04:45:34Z" visited="2016-04-05T03:46:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T04:45:34Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa1/BSTIterator.hpp" added="2016-04-05T03:47:24Z" modified="2016-04-05T04:20:19Z" visited="2016-04-05T03:47:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-05T04:20:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/HCNode.hpp" added="2016-04-17T04:45:06Z" modified="2016-04-18T19:42:05Z" visited="2016-04-17T04:45:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T19:42:05Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/HCNode.cpp" added="2016-04-17T04:45:08Z" modified="2016-04-21T20:26:29Z" visited="2016-04-17T04:45:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T20:26:29Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/HCTree.cpp" added="2016-04-17T06:11:26Z" modified="2016-04-21T20:27:10Z" visited="2016-04-17T06:11:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T20:27:10Z" count="48"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-18T19:41:34Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/HCTree.hpp" added="2016-04-17T06:11:41Z" modified="2016-04-18T19:59:54Z" visited="2016-04-17T06:11:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T19:59:54Z" count="15"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-18T18:47:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/checkpoint.pdf" added="2016-04-17T06:23:03Z" modified="2016-04-17T06:23:03Z" visited="2016-04-17T06:23:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2016-04-17T06:23:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/compress.cpp" added="2016-04-17T06:24:30Z" modified="2016-04-21T20:17:14Z" visited="2016-04-17T06:24:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T20:17:14Z" count="34"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-18T20:02:38Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/uncompress.cpp" added="2016-04-17T06:25:58Z" modified="2016-04-22T05:09:42Z" visited="2016-04-17T06:25:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-22T05:09:42Z" count="41"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-18T19:46:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/checkpoint1.txt" added="2016-04-18T17:19:44Z" modified="2016-04-18T17:19:44Z" visited="2016-04-18T17:19:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T17:19:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/Makefile" added="2016-04-18T18:30:13Z" modified="2016-04-18T18:30:34Z" visited="2016-04-18T18:30:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-18T18:30:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/a.txt" added="2016-04-18T20:02:03Z" modified="2016-04-19T04:12:23Z" visited="2016-04-18T20:02:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-19T04:12:23Z" count="14"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-04-18T20:10:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/b.txt" added="2016-04-18T20:07:33Z" modified="2016-04-19T04:12:32Z" visited="2016-04-18T20:07:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-19T04:12:32Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Pa2/checkpoint2.txt" added="2016-04-19T04:12:28Z" modified="2016-04-19T04:12:28Z" visited="2016-04-19T04:12:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-19T04:12:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4844_10785_pa2_huffman/compress.cpp" added="2016-04-19T04:45:56Z" modified="2016-04-19T05:19:00Z" visited="2016-04-19T04:45:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-19T05:19:00Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4844_10785_pa2_huffman/Checkpoint.pdf" added="2016-04-19T05:03:00Z" modified="2016-04-19T05:03:00Z" visited="2016-04-19T05:03:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2016-04-19T05:03:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4844_10785_pa2_huffman/uncompress.cpp" added="2016-04-19T05:19:16Z" modified="2016-04-19T05:19:16Z" visited="2016-04-19T05:19:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-19T05:19:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_4844_10785_pa2_huffman/HCTree.cpp" added="2016-04-19T05:19:26Z" modified="2016-04-19T05:19:26Z" visited="2016-04-19T05:19:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-19T05:19:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/theprince.txt" added="2016-04-21T20:35:00Z" modified="2016-04-21T20:36:03Z" visited="2016-04-21T20:35:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T20:36:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/MA.PNG" added="2016-04-21T20:44:19Z" modified="2016-04-21T20:44:32Z" visited="2016-04-21T20:44:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2016-04-21T20:44:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/MANEW.PNG" added="2016-04-21T20:44:22Z" modified="2016-04-21T20:44:22Z" visited="2016-04-21T20:44:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2016-04-21T20:44:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/test.txt" added="2016-04-21T20:57:17Z" modified="2016-04-21T20:57:17Z" visited="2016-04-21T20:57:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T20:57:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/Untitled%20Document" added="2016-04-21T21:09:34Z" modified="2016-04-21T21:09:35Z" visited="2016-04-21T21:09:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T21:09:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/ty_tester.sh" added="2016-04-21T21:10:27Z" modified="2016-04-21T21:12:12Z" visited="2016-04-21T21:10:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-21T21:12:12Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/a.txt" added="2016-04-21T21:21:10Z" modified="2016-04-22T04:47:03Z" visited="2016-04-21T21:21:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-22T04:47:03Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Untitled%20Document" added="2016-04-22T05:07:17Z" modified="2016-04-22T05:07:17Z" visited="2016-04-22T05:07:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-22T05:07:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa2/b" added="2016-04-22T06:12:49Z" modified="2016-04-22T06:12:49Z" visited="2016-04-22T06:12:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-04-22T06:12:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3_part1.zip" added="2016-05-08T22:46:34Z" modified="2016-05-08T22:46:34Z" visited="2016-05-08T22:46:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-05-08T22:46:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3_part1/DictionaryBST.cpp" added="2016-05-08T22:47:03Z" modified="2016-05-08T22:51:06Z" visited="2016-05-08T22:47:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T22:51:06Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-08T22:51:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/Auto/DictionaryBST.cpp" added="2016-05-08T22:50:02Z" modified="2016-05-08T22:50:02Z" visited="2016-05-08T22:50:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T22:50:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3_part1/DictionaryBST.hpp" added="2016-05-08T22:50:33Z" modified="2016-05-08T22:50:34Z" visited="2016-05-08T22:50:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-08T22:50:33Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T22:50:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/DictionaryBST.cpp" added="2016-05-08T22:51:19Z" modified="2016-05-09T00:29:01Z" visited="2016-05-08T22:51:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-09T00:29:01Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-08T23:54:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/DictionaryHashtable.cpp" added="2016-05-08T22:51:23Z" modified="2016-05-08T23:57:04Z" visited="2016-05-08T22:51:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T23:57:04Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/DictionaryHashtable.hpp" added="2016-05-08T22:51:28Z" modified="2016-05-08T22:51:28Z" visited="2016-05-08T22:51:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T22:51:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/DictionaryTrie.cpp" added="2016-05-08T22:51:53Z" modified="2016-05-09T01:43:41Z" visited="2016-05-08T22:51:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-09T01:43:41Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/util.cpp" added="2016-05-08T23:03:46Z" modified="2016-05-08T23:36:46Z" visited="2016-05-08T23:03:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T23:36:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/benchtrie.cpp" added="2016-05-08T23:10:31Z" modified="2016-05-08T23:10:31Z" visited="2016-05-08T23:10:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T23:10:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/DictionaryBST.hpp" added="2016-05-08T23:13:01Z" modified="2016-05-09T00:31:43Z" visited="2016-05-08T23:13:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-09T00:31:43Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/README" added="2016-05-08T23:25:16Z" modified="2016-05-08T23:25:16Z" visited="2016-05-08T23:25:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T23:25:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/testagainstref" added="2016-05-08T23:25:25Z" modified="2016-05-08T23:25:25Z" visited="2016-05-08T23:25:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-08T23:25:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/util.hpp" added="2016-05-09T00:31:15Z" modified="2016-05-09T00:31:15Z" visited="2016-05-09T00:31:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-09T00:31:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw3/DictionaryTrie.hpp" added="2016-05-09T00:40:40Z" modified="2016-05-09T01:41:52Z" visited="2016-05-09T00:40:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-09T00:40:40Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-09T01:41:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/hw333/DictionaryTrie.cpp" added="2016-05-09T01:56:05Z" modified="2016-05-09T01:59:53Z" visited="2016-05-09T01:56:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-09T01:59:53Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa_3/DictionaryTrie.cpp" added="2016-05-09T02:05:09Z" modified="2016-05-09T02:25:22Z" visited="2016-05-09T02:05:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-09T02:25:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_5285_14504_pa3_autocomplete/DictionaryTrie.cpp" added="2016-05-09T02:29:25Z" modified="2016-05-14T04:07:55Z" visited="2016-05-09T02:29:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:07:55Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/PA3.zip" added="2016-05-11T18:46:21Z" modified="2016-05-11T18:52:55Z" visited="2016-05-11T18:46:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-05-11T18:52:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3_winter/benchtrie.cpp" added="2016-05-11T18:56:38Z" modified="2016-05-11T18:56:38Z" visited="2016-05-11T18:56:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-11T18:56:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3_winter/DictionaryBST.cpp" added="2016-05-11T18:56:44Z" modified="2016-05-11T18:56:44Z" visited="2016-05-11T18:56:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-11T18:56:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/dictionary/freq1.txt" added="2016-05-11T23:21:48Z" modified="2016-05-11T23:21:56Z" visited="2016-05-11T23:21:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-11T23:21:48Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-11T23:21:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/README" added="2016-05-12T00:02:15Z" modified="2016-05-12T00:02:15Z" visited="2016-05-12T00:02:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-12T00:02:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/autoCompleter_GUI/main.cpp" added="2016-05-12T04:00:51Z" modified="2016-05-12T04:00:51Z" visited="2016-05-12T04:00:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-12T04:00:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/benchdict.cpp" added="2016-05-12T06:45:11Z" modified="2016-05-13T21:52:56Z" visited="2016-05-12T06:45:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T21:52:56Z" count="125"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-13T00:53:18Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/util.cpp" added="2016-05-12T20:30:51Z" modified="2016-05-13T20:20:01Z" visited="2016-05-12T20:30:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T20:20:01Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/Makefile" added="2016-05-12T22:34:20Z" modified="2016-05-12T22:34:53Z" visited="2016-05-12T22:34:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-12T22:34:53Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/dictionary/unique_freq_dict.txt" added="2016-05-13T05:44:16Z" modified="2016-05-13T05:44:17Z" visited="2016-05-13T05:44:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-13T05:44:16Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T05:44:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/dictionary/freq2.txt" added="2016-05-13T05:44:28Z" modified="2016-05-13T05:44:28Z" visited="2016-05-13T05:44:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T05:44:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/dictionary/shuffled_freq_dict.txt" added="2016-05-13T05:44:31Z" modified="2016-05-13T05:44:35Z" visited="2016-05-13T05:44:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-13T05:44:31Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T05:44:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/hw3_part2.zip" added="2016-05-13T06:25:24Z" modified="2016-05-13T06:25:24Z" visited="2016-05-13T06:25:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-05-13T06:25:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3/FinalReport.pdf" added="2016-05-13T07:07:57Z" modified="2016-05-13T07:07:57Z" visited="2016-05-13T07:07:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2016-05-13T07:07:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/cs100.zip" added="2016-05-13T21:05:12Z" modified="2016-05-13T21:05:12Z" visited="2016-05-13T21:05:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-05-13T21:05:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/assi3/repo_st_632_4125_10757_pa3_autocomplete/DictionaryTrie.hpp" added="2016-05-13T21:05:57Z" modified="2016-05-13T22:36:08Z" visited="2016-05-13T21:05:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T22:36:08Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/assi3/repo_st_632_4125_10757_pa3_autocomplete/DictionaryTrie.cpp" added="2016-05-13T21:10:29Z" modified="2016-05-14T04:01:35Z" visited="2016-05-13T21:10:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:01:35Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/DictionaryTrie.cpp" added="2016-05-13T21:51:31Z" modified="2016-05-14T04:09:56Z" visited="2016-05-13T21:51:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:09:56Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/DictionaryTrie.hpp" added="2016-05-13T21:51:36Z" modified="2016-05-14T03:56:31Z" visited="2016-05-13T21:51:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T03:56:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/repo_st_733_5285_14504_pa3_autocomplete/DictionaryTrie.hpp" added="2016-05-14T03:49:35Z" modified="2016-05-14T04:05:59Z" visited="2016-05-14T03:49:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:05:59Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>

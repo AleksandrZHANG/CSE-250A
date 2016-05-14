@@ -201,10 +201,10 @@ UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/saucy-updates/main/
 
 Dist: trusty
 Name: Trusty Tahr
-Version: 14.04.3 LTS
+Version: 14.04.4 LTS
 Date: Thu, 17 Apr 2014 14:04:00 UTC
 Supported: 1
-Description: This is the 14.04.3 LTS release
+Description: This is the 14.04.4 LTS release
 Release-File: http://archive.ubuntu.com/ubuntu/dists/trusty/Release
 ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/trusty-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
 ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/trusty-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
@@ -226,11 +226,10 @@ Dist: vivid
 Name: Vivid Vervet
 Version: 15.04
 Date: Thu, 23 April 2015 15:04:00 UTC
-Supported: 1
+Supported: 0
 Description: This is the 15.04 release
 Release-File: http://archive.ubuntu.com/ubuntu/dists/vivid/Release
-ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/vivid-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
-ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/vivid-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
 UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/vivid-updates/main/dist-upgrader-all/current/vivid.tar.gz
 UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/vivid-updates/main/dist-upgrader-all/current/vivid.tar.gz.gpg
 
@@ -245,3 +244,15 @@ ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/wily-updates/main/dist-upgr
 ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/wily-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
 UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/wily-updates/main/dist-upgrader-all/current/wily.tar.gz
 UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/wily-updates/main/dist-upgrader-all/current/wily.tar.gz.gpg
+
+Dist: xenial
+Name: Xenial Xerus
+Version: 16.04 LTS
+Date: Thu, 21 April 2016 16:04:00 UTC
+Supported: 1
+Description: This is the 16.04 LTS release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/xenial/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/dist-upgrader-all/current/xenial.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/dist-upgrader-all/current/xenial.tar.gz.gpg

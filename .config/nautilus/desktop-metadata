@@ -1,23 +1,28 @@
 [directory]
 nautilus-icon-view-keep-aligned=true
-nautilus-icon-view-layout-timestamp=1452570719
+nautilus-icon-view-layout-timestamp=1463162692
 
 [trash]
 nautilus-icon-position=64,122
 icon-scale=1
-nautilus-icon-position-timestamp=1452570719
+nautilus-icon-position-timestamp=1463162692
 
 [home]
 nautilus-icon-position=64,22
 icon-scale=1
-nautilus-icon-position-timestamp=1452570719
+nautilus-icon-position-timestamp=1463162692
 
 [VMware Tools.volume]
 nautilus-icon-position=64,222
 icon-scale=1
-nautilus-icon-position-timestamp=1452551942
+nautilus-icon-position-timestamp=1462747491
 
 [USB DISK.volume]
 nautilus-icon-position=64,302
 icon-scale=1
 nautilus-icon-position-timestamp=1445562888
+
+[Aleksandr_Z.'s iphone.volume]
+nautilus-icon-position=64,202
+icon-scale=1
+nautilus-icon-position-timestamp=1463169353

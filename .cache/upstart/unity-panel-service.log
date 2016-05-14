@@ -1,126 +1,352 @@
 
-(unity-panel-service:1551): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 526 was not found when attempting to remove it
 
-(unity-panel-service:1551): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 1829 was not found when attempting to remove it
 
-(unity-panel-service:1551): GLib-CRITICAL **: Source ID 177 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 1842 was not found when attempting to remove it
 
-(unity-panel-service:1868): Gtk-CRITICAL **: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 2033 was not found when attempting to remove it
 
-(unity-panel-service:1868): Gtk-CRITICAL **: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 2071 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 2084 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 2172 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 2185 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 190 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 2332 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 439 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 450 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 2343 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 607 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 958 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 1018 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 1029 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 3084 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 1510 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4142 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 1523 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4157 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4357 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4370 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 1573 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4526 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4539 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4695 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 1858 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4708 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 1878 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4864 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4877 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4927 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 2387 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 2866 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 2879 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 4968 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 3042 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 3055 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 3105 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 5001 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 5728 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 5741 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 3401 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 5902 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 3412 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 5915 was not found when attempting to remove it
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 3555 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 6478 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 3756 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 7505 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 4477 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 7528 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 4490 was not found when attempting to remove it
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 7694 was not found when attempting to remove it
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 4540 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 4590 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1868): GLib-CRITICAL **: Source ID 4601 was not found when attempting to remove it
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1868): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 7717 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 13051 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 13066 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 13349 was not found when attempting to remove it
+
+(unity-panel-service:1911): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 13362 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 13729 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 13779 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 13790 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 14011 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 14032 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 15038 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 15051 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 15400 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 15917 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 15948 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 16700 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 16715 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17098 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17130 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17258 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17489 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17502 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17663 was not found when attempting to remove it
+
+(unity-panel-service:1911): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17676 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 17780 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 19083 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 19096 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 19666 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 19681 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 19947 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 19962 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 20202 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 20215 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 27168 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 27181 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 27429 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 27452 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 27690 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 29461 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 29474 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 29871 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 29903 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30176 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30189 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30241 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30529 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30542 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30826 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30874 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 30885 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 31089 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 31396 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 32020 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 32035 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 32428 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 32716 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 32729 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 33040 was not found when attempting to remove it
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 33064 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): GLib-CRITICAL **: Source ID 33110 was not found when attempting to remove it
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1911): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed

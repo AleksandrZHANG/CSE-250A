@@ -103,3 +103,360 @@
 2016-01-11 19:52:02,932:932.665109634 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
 2016-01-11 19:52:02,932:932.976961136 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
 2016-01-11 19:52:12,943:943.547964096 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69a8fb4>.
+2016-01-13 15:54:16,269:269.304990768 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-13 15:54:16,295:295.660018921 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-13 15:54:16,300:300.493001938 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-13 15:54:16,300:300.635099411 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-13 15:54:16,312:312.535047531 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-13 15:54:16,312:312.782049179 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-13 15:54:26,322:322.829008102 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb692afb4>.
+2016-01-14 11:39:41,818:818.546056747 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-14 11:39:41,853:853.491067886 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-14 11:39:41,859:859.996080399 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-14 11:39:41,860:860.233068466 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-14 11:39:41,876:876.28698349 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-14 11:39:41,876:876.713991165 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-14 11:39:51,886:886.785984039 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6974fb4>.
+2016-01-14 22:28:44,652:652.42099762 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-14 22:28:44,728:728.065013885 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-14 22:28:44,777:777.260065079 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-14 22:28:44,777:777.555942535 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-14 22:28:44,911:911.533117294 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-14 22:28:44,911:911.756038666 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-14 22:28:54,926:926.707983017 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6a22fb4>.
+2016-01-15 12:59:09,425:425.008058548 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-15 12:59:09,452:452.400922775 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-15 12:59:09,458:458.256006241 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-15 12:59:09,458:458.427906036 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-15 12:59:09,471:471.689939499 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-15 12:59:09,472:472.059965134 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-15 12:59:19,482:482.42688179 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6a02fb4>.
+2016-01-15 22:16:05,748:748.188018799 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-15 22:16:05,779:779.278039932 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-15 22:16:05,786:786.739110947 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-15 22:16:05,786:786.900043488 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-15 22:16:05,800:800.465106964 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-15 22:16:05,800:800.780057907 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-15 22:16:15,810:810.852050781 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6961fb4>.
+2016-01-16 14:29:17,650:650.646924973 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-16 14:29:17,691:691.081047058 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-16 14:29:17,706:706.929922104 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-16 14:29:17,707:707.102060318 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-16 14:29:17,724:724.428892136 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-16 14:29:17,724:724.759101868 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-16 14:29:27,734:734.438896179 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69e4fb4>.
+2016-01-16 21:29:14,453:453.525066376 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-16 21:29:14,483:483.470916748 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-16 21:29:14,490:490.720033646 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-16 21:29:14,490:490.912914276 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-16 21:29:14,503:503.388881683 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-16 21:29:14,503:503.674030304 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-16 21:29:24,513:513.807058334 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69b1fb4>.
+2016-01-20 16:42:52,939:939.172029495 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-20 16:42:52,981:981.574058533 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-20 16:42:52,991:991.22095108 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-20 16:42:52,991:991.369009018 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-20 16:42:53,011:11.0590457916 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-20 16:42:53,012:12.9299163818 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-20 16:43:03,023:23.6320495605 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69fefb4>.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   2016-01-24 22:48:26,768:768.387079239 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-24 22:48:26,796:796.216011047 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-24 22:48:26,801:801.911115646 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-24 22:48:26,802:802.090883255 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-24 22:48:26,813:813.944101334 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-24 22:48:26,814:814.218997955 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-24 22:48:36,821:821.721076965 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb695ffb4>.
+2016-01-25 22:00:43,804:804.431915283 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-25 22:00:43,877:877.994060516 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-25 22:00:43,891:891.179084778 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-25 22:00:43,891:891.438007355 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-25 22:00:43,943:943.140029907 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-25 22:00:43,944:944.124937057 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-25 22:00:53,951:951.576948166 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69bcfb4>.
+2016-01-25 23:58:09,438:438.1980896 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-25 23:58:09,466:466.998100281 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-25 23:58:09,471:471.788883209 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-25 23:58:09,471:471.930980682 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-25 23:58:09,484:484.036922455 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-25 23:58:09,484:484.267950058 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-25 23:58:19,543:543.170928955 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6943fb4>.
+2016-01-26 23:07:28,468:468.648910522 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-26 23:07:28,546:546.766996384 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-26 23:07:28,554:554.869890213 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-26 23:07:28,555:555.568933487 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-26 23:07:28,583:583.434104919 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-26 23:07:28,583:583.731889725 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-26 23:07:38,584:584.290981293 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb692bfb4>.
+2016-01-26 23:48:17,697:697.489023209 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-26 23:48:17,735:735.753059387 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-26 23:48:17,745:745.585918427 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-26 23:48:17,745:745.857000351 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-26 23:48:17,765:765.736103058 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-26 23:48:17,766:766.028881073 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-26 23:48:27,772:772.011995316 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb698bfb4>.
+2016-01-27 20:53:37,042:42.5400733948 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-27 20:53:37,085:85.107088089 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-27 20:53:37,094:94.9020385742 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-27 20:53:37,095:95.0899124146 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-27 20:53:37,112:112.343072891 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-27 20:53:37,113:113.500118256 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-27 20:53:47,124:124.213933945 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6937fb4>.
+2016-01-28 14:27:00,706:706.084012985 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-28 14:27:00,738:738.194942474 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-28 14:27:00,747:747.104883194 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-28 14:27:00,747:747.318029404 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-28 14:27:00,759:759.33098793 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-28 14:27:00,759:759.608030319 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-28 14:27:10,772:772.547960281 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb697efb4>.
+2016-01-28 22:06:04,685:685.754060745 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-28 22:06:04,755:755.052089691 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-28 22:06:04,765:765.467882156 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-28 22:06:04,765:765.640974045 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-28 22:06:04,807:807.441949844 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-28 22:06:04,807:807.641983032 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-28 22:06:14,819:819.247961044 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6990fb4>.
+2016-01-28 23:46:29,496:496.419906616 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-28 23:46:29,545:545.819997787 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-28 23:46:29,559:559.253931046 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-28 23:46:29,559:559.438943863 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-28 23:46:29,579:579.987049103 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-28 23:46:29,580:580.893039703 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-28 23:46:39,591:591.3169384 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6969fb4>.
+2016-01-29 12:31:42,859:859.220981598 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-01-29 12:31:42,898:898.783922195 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-01-29 12:31:42,904:904.576063156 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-01-29 12:31:42,904:904.762029648 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-01-29 12:31:42,917:917.687892914 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-01-29 12:31:42,917:917.970895767 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-01-29 12:31:52,924:924.750089645 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb697dfb4>.
+2016-02-10 17:35:09,059:59.3049526215 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-02-10 17:35:09,088:88.9480113983 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-02-10 17:35:09,103:103.844881058 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-02-10 17:35:09,104:104.032993317 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-02-10 17:35:09,127:127.017021179 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-02-10 17:35:09,127:127.48503685 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-02-10 17:35:19,136:136.181116104 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69a9fb4>.
+2016-02-10 17:51:08,702:702.137947083 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-02-10 17:51:08,736:736.730098724 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-02-10 17:51:08,746:746.439933777 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-02-10 17:51:08,746:746.716976166 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-02-10 17:51:08,762:762.012958527 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-02-10 17:51:08,762:762.345075607 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-02-10 17:51:18,772:772.887945175 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6971fb4>.
+2016-02-11 13:55:57,306:306.762933731 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-02-11 13:55:57,344:344.728946686 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-02-11 13:55:57,353:353.55091095 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-02-11 13:55:57,353:353.748083115 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-02-11 13:55:57,365:365.957021713 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-02-11 13:55:57,366:366.282939911 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-02-11 13:56:07,376:376.65605545 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb697efb4>.
+2016-02-11 19:57:30,851:851.973056793 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-02-11 19:57:30,886:886.070966721 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-02-11 19:57:30,892:892.998933792 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-02-11 19:57:30,893:893.261909485 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-02-11 19:57:30,910:910.37106514 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-02-11 19:57:30,910:910.690069199 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-02-11 19:57:40,921:921.188116074 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69bcfb4>.
+2016-02-12 11:33:17,866:866.125106812 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-02-12 11:33:17,927:927.186012268 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-02-12 11:33:17,939:939.711093903 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-02-12 11:33:17,940:940.654039383 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-02-12 11:33:17,969:969.743967056 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-02-12 11:33:17,970:970.391988754 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-02-12 11:33:27,981:981.812000275 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6996fb4>.
+2016-02-12 15:26:35,942:942.312955856 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-02-12 15:26:35,995:995.369911194 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-02-12 15:26:36,013:13.8781070709 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-02-12 15:26:36,014:14.1749382019 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-02-12 15:26:36,039:39.5910739899 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-02-12 15:26:36,040:40.1270389557 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-02-12 15:26:46,051:51.2759685516 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb693afb4>.
+2016-04-03 01:20:56,477:477.18000412 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-03 01:20:56,504:504.029035568 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-03 01:20:56,509:509.744882584 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-03 01:20:56,509:509.923934937 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-03 01:20:56,520:520.662069321 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-03 01:20:56,520:520.874977112 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-03 01:21:06,530:530.819892883 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6a12fb4>.
+2016-04-03 01:24:58,027:27.3149013519 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-03 01:24:58,057:57.0590496063 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-03 01:24:58,062:62.6809597015 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-03 01:24:58,062:62.8619194031 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-03 01:24:58,076:76.6689777374 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-03 01:24:58,076:76.9519805908 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-03 01:25:08,087:87.1419906616 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69eefb4>.
+2016-04-03 12:52:43,924:924.848079681 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-03 12:52:43,958:958.338022232 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-03 12:52:43,963:963.449954987 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-03 12:52:43,963:963.598012924 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-03 12:52:43,975:975.409984589 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-03 12:52:43,975:975.704908371 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-03 12:52:53,990:990.087032318 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb692cfb4>.
+2016-04-03 20:10:51,797:797.179937363 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-03 20:10:51,826:826.361894608 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-03 20:10:51,831:831.156015396 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-03 20:10:51,831:831.332921982 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-03 20:10:51,844:844.749927521 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-03 20:10:51,845:845.066070557 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-03 20:11:01,854:854.711055756 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69b0fb4>.
+2016-04-03 20:54:12,612:612.737894058 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-03 20:54:12,664:664.712905884 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-03 20:54:12,686:686.137914658 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-03 20:54:12,686:686.372041702 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-03 20:54:12,707:707.2930336 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-03 20:54:12,707:707.608938217 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-03 20:54:22,718:718.707084656 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69c8fb4>.
+2016-04-04 11:41:55,775:775.465011597 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-04 11:41:55,806:806.426048279 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-04 11:41:55,812:812.051057816 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-04 11:41:55,812:812.602043152 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-04 11:41:55,825:825.630903244 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-04 11:41:55,825:825.897932053 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-04 11:42:05,836:836.558103561 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6978fb4>.
+2016-04-04 20:22:14,648:648.014068604 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-04 20:22:14,682:682.770967484 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-04 20:22:14,687:687.618970871 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-04 20:22:14,687:687.762975693 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-04 20:22:14,702:702.065944672 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-04 20:22:14,702:702.433109283 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-04 20:22:24,705:705.537080765 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb694dfb4>.
+2016-04-06 10:09:14,300:300.177097321 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-06 10:09:14,332:332.359075546 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-06 10:09:14,337:337.037086487 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-06 10:09:14,337:337.177991867 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-06 10:09:14,354:354.657888412 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-06 10:09:14,355:355.046987534 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-06 10:09:24,365:365.57507515 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb699cfb4>.
+2016-04-16 21:41:53,231:231.518983841 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-16 21:41:53,261:261.792898178 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-16 21:41:53,268:268.832921982 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-16 21:41:53,269:269.109010696 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-16 21:41:53,283:283.781051636 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-16 21:41:53,284:284.184932709 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-16 21:42:03,294:294.987916946 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6964fb4>.
+2016-04-17 15:23:35,487:487.678050995 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-17 15:23:35,516:516.069889069 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-17 15:23:35,521:521.187067032 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-17 15:23:35,521:521.347999573 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-17 15:23:35,535:535.937070847 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-17 15:23:35,536:536.211967468 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-17 15:23:45,537:537.575960159 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6a00fb4>.
+2016-04-18 08:33:03,137:137.870073318 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-18 08:33:03,192:192.795991898 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-18 08:33:03,210:210.990905762 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-18 08:33:03,211:211.318969727 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-18 08:33:03,252:252.794027328 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-18 08:33:03,253:253.24511528 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-18 08:33:13,260:260.421991348 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69dcfb4>.
+2016-04-18 09:17:09,667:667.12808609 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-18 09:17:09,719:719.01011467 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-18 09:17:09,729:729.922056198 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-18 09:17:09,730:730.268955231 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-18 09:17:09,755:755.270957947 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-18 09:17:09,755:755.84602356 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-18 09:17:19,763:763.029098511 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69f4fb4>.
+2016-04-18 11:27:40,095:95.694065094 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-18 11:27:40,191:191.189050674 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-18 11:27:40,217:217.41604805 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-18 11:27:40,217:217.792034149 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-18 11:27:40,267:267.899990082 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-18 11:27:40,301:301.151037216 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-18 11:27:50,308:308.657884598 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb696cfb4>.
+2016-04-18 21:03:40,645:645.80488205 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-18 21:03:40,674:674.587965012 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-18 21:03:40,681:681.842088699 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-18 21:03:40,682:682.044029236 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-18 21:03:40,694:694.65303421 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-18 21:03:40,694:694.888114929 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-18 21:03:50,705:705.3399086 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69effb4>.
+2016-04-21 13:14:43,533:533.097982407 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-21 13:14:43,560:560.111999512 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-21 13:14:43,565:565.074920654 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-21 13:14:43,565:565.217971802 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-21 13:14:43,575:575.949907303 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-21 13:14:43,576:576.220035553 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-21 13:14:53,587:587.471008301 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69c2fb4>.
+2016-04-21 13:33:25,959:959.042072296 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-21 13:33:25,984:984.503030777 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-21 13:33:25,988:988.862991333 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-04-21 13:33:25,989:989.002943039 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-04-21 13:33:26,002:2.30097770691 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-04-21 13:33:26,002:2.59208679199 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-04-21 13:33:36,002:2.95996665955 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6a1dfb4>.
+2016-05-08 15:40:05,796:796.055078506 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-08 15:40:06,069:69.9601173401 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-08 15:40:06,087:87.2130393982 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-08 15:40:06,087:87.5239372253 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-08 15:40:06,113:113.359928131 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-08 15:40:06,113:113.604068756 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-08 15:40:16,122:122.503995895 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb699cfb4>.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         2016-05-10 16:20:14,293:293.462991714 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-10 16:20:14,331:331.425905228 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-10 16:20:14,340:340.497970581 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-10 16:20:14,340:340.702056885 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-10 16:20:14,358:358.289003372 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-10 16:20:14,358:358.62994194 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-10 16:20:24,368:368.604898453 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69c8fb4>.
+2016-05-11 10:32:54,309:309.104919434 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-11 10:32:54,346:346.609115601 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-11 10:32:54,351:351.015090942 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-11 10:32:54,351:351.326942444 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-11 10:32:54,363:363.276958466 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-11 10:32:54,363:363.51108551 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-11 10:33:04,373:373.908042908 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb695cfb4>.
+2016-05-11 11:49:41,974:974.685907364 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-11 11:49:42,201:201.678037643 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-11 11:49:42,229:229.792118073 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-11 11:49:42,230:230.038881302 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-11 11:49:42,279:279.886007309 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-11 11:49:42,284:284.346103668 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-11 11:49:52,292:292.906045914 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69befb4>.
+2016-05-11 11:55:14,475:475.907087326 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-11 11:55:14,508:508.177995682 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-11 11:55:14,515:515.261888504 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-11 11:55:14,516:516.705036163 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-11 11:55:14,529:529.308080673 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-11 11:55:14,529:529.576063156 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-11 11:55:24,533:533.705949783 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb6997fb4>.
+2016-05-11 16:19:47,806:806.443929672 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-11 16:19:47,840:840.18611908 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-11 16:19:47,847:847.686052322 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-11 16:19:47,847:847.841978073 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-11 16:19:47,863:863.399028778 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-11 16:19:47,863:863.687038422 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-11 16:19:57,863:863.919973373 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69b9fb4>.
+2016-05-11 20:59:24,018:18.7408924103 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-11 20:59:24,103:103.598117828 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-11 20:59:24,111:111.885070801 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-11 20:59:24,112:112.066984177 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-11 20:59:24,130:130.466938019 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-11 20:59:24,131:131.465911865 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-11 20:59:34,132:132.155895233 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb698bfb4>.
+2016-05-12 10:24:19,786:786.355018616 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-12 10:24:20,528:528.969049454 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-12 10:24:20,535:535.341024399 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-12 10:24:20,535:535.506010056 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-12 10:24:20,551:551.736116409 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-12 10:24:20,552:552.061080933 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-12 10:24:30,561:561.012029648 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb69dcfb4>.
+2016-05-12 13:41:23,570:570.171117783 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-12 13:41:23,614:614.773988724 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-12 13:41:23,623:623.606920242 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-12 13:41:23,623:623.773097992 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-12 13:41:23,662:662.014961243 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-12 13:41:23,662:662.206888199 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-12 13:41:33,668:668.469905853 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb697afb4>.
+2016-05-12 21:06:32,620:620.764970779 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-12 21:06:32,670:670.741081238 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-12 21:06:32,681:681.514978409 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-12 21:06:32,681:681.658983231 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-12 21:06:32,697:697.496891022 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-12 21:06:32,697:697.757959366 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-12 21:06:42,707:707.978010178 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb696ffb4>.
+2016-05-13 11:04:56,208:208.754062653 - ubuntu_kylin_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-05-13 11:04:56,284:284.523963928 - ubuntu_kylin_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-05-13 11:04:56,302:302.496910095 - ubuntu_kylin_sso.main - INFO - Ubuntu SSO service started.
+2016-05-13 11:04:56,302:302.747964859 - ubuntu_kylin_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntukylin.com/api/1.0/'
+2016-05-13 11:04:56,324:324.7859478 - ubuntu_kylin_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Youker ID'), result is {}? True
+2016-05-13 11:04:56,325:325.109004974 - ubuntu_kylin_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Youker ID'),) and kwargs {}
+2016-05-13 11:05:06,335:335.855007172 - ubuntu_kylin_sso.main - INFO - Shutting down, calling <function shutdown_func at 0xb695bfb4>.

@@ -1,26 +1,26 @@
 openConnection: connect: No such file or directory
 cannot connect to brltty at :0
-upstart: upstart-event-bridge main process (1445) terminated with status 1
+upstart: upstart-event-bridge main process (1772) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1451) terminated with status 1
+upstart: upstart-event-bridge main process (1782) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1461) terminated with status 1
+upstart: upstart-event-bridge main process (1791) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1469) terminated with status 1
+upstart: upstart-event-bridge main process (1800) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1477) terminated with status 1
+upstart: upstart-event-bridge main process (1808) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1481) terminated with status 1
+upstart: upstart-event-bridge main process (1812) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1485) terminated with status 1
+upstart: upstart-event-bridge main process (1818) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1489) terminated with status 1
+upstart: upstart-event-bridge main process (1822) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1494) terminated with status 1
+upstart: upstart-event-bridge main process (1826) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1497) terminated with status 1
+upstart: upstart-event-bridge main process (1830) terminated with status 1
 upstart: upstart-event-bridge main process ended, respawning
-upstart: upstart-event-bridge main process (1504) terminated with status 1
+upstart: upstart-event-bridge main process (1833) terminated with status 1
 upstart: upstart-event-bridge respawning too fast, stopped
 upstart: at-spi2-registryd main process ended, respawning
 upstart: at-spi2-registryd main process ended, respawning
@@ -33,3 +33,22 @@ upstart: at-spi2-registryd main process ended, respawning
 upstart: at-spi2-registryd main process ended, respawning
 upstart: at-spi2-registryd main process ended, respawning
 upstart: at-spi2-registryd respawning too fast, stopped
+upstart: update-notifier-crash (/var/crash/_sbin_upstart.119.crash) main process (1793) terminated with status 1
+upstart: window-stack-bridge main process (1771) killed by HUP signal
+upstart: update-notifier-release main process (1838) killed by TERM signal
+upstart: hud main process (1864) killed by HUP signal
+upstart: unity-settings-daemon main process (1866) killed by HUP signal
+upstart: gnome-session (Unity) main process (1881) killed by HUP signal
+upstart: unity-panel-service main process (1885) killed by HUP signal
+upstart: indicator-messages main process (1944) killed by HUP signal
+upstart: indicator-bluetooth main process (1945) killed by TERM signal
+upstart: indicator-power main process (1948) killed by TERM signal
+upstart: indicator-datetime main process (1954) killed by TERM signal
+upstart: indicator-keyboard main process (1957) killed by HUP signal
+upstart: indicator-sound main process (1959) killed by HUP signal
+upstart: indicator-printers main process (1965) killed by TERM signal
+upstart: indicator-session main process (1968) killed by TERM signal
+upstart: indicator-application main process (1988) killed by TERM signal
+upstart: indicator-application pre-stop process (4350) killed by HUP signal
+upstart: gnome-session (Unity) pre-stop process (4351) killed by HUP signal
+upstart: Disconnected from notified D-Bus bus
