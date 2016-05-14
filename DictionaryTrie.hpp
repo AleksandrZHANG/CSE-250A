@@ -90,7 +90,7 @@ private:
         dfs(prefix, node->right, pq, num);
         if (!pq.empty()) {
             if ((pq.size() < num)||(node->max_freq > pq.top().first)) {
-                dfs(prefix, node->middle, pq, num);
+                dfs(tmp, node->middle, pq, num);
             }
         }
     }
