@@ -27,7 +27,7 @@ public:
         else if (a.first < b.first) {
             return false;
         }
-        else return a.second < b.second;
+        else return a.second > b.second;
     }
 };
 class DictionaryTrie
