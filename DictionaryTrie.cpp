@@ -124,8 +124,9 @@ std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, 
     // Depth first search on TSTtrie root from curr.
     dfs(prefix, curr, pq, num_completions);
     unsigned int size = pq.size();
+    words.resize(size);
     for (unsigned int i = 0; (i < num_completions) && (i < size); i++) {
-        words.push_back(pq.top().second);
+        words[size-1-i] = pq.top().second;
         pq.pop();
     }
     return words;
