@@ -1633,7 +1633,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/aleksandrz/pa3/benchdict.cpp" added="2016-05-12T06:45:11Z" modified="2016-05-13T21:52:56Z" visited="2016-05-12T06:45:12Z">
+  <bookmark href="file:///home/aleksandrz/pa3/benchdict.cpp" added="2016-05-12T06:45:11Z" modified="2016-05-14T04:24:22Z" visited="2016-05-12T06:45:12Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-c++src"/>
@@ -1641,7 +1641,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-13T21:52:56Z" count="125"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:24:22Z" count="126"/>
           <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-05-13T00:53:18Z" count="3"/>
         </bookmark:applications>
       </metadata>
@@ -1805,6 +1805,19 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:05:59Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aleksandrz/pa3_winter/benchdict.cpp" added="2016-05-14T04:23:12Z" modified="2016-05-14T04:23:12Z" visited="2016-05-14T04:23:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-05-14T04:23:12Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

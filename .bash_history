@@ -1558,3 +1558,11 @@ git add DictionaryTrie.cpp
 git add DictionaryTrie.hpp
 git commit -m "FINAL SUBMISSION"
 git push
+git pull
+git commit -a
+git add DictionaryTrie.hpp
+cd pa3
+git add DictionaryTrie.hpp
+git add DictionaryTrie.cpp
+git commit -m "FINAL SUBMISSION"
+git push
