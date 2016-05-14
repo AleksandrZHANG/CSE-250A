@@ -42,14 +42,14 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
             curr = curr->middle;
             i++;
         }
-        else if (word[i] < curr->letter) {
+        if (word[i] < curr->letter) {
             if (curr->left == 0) {
                 curr->left = new TSTNode(word[i]);
                 flag = true;
             }
             curr = curr->left;
         }
-        else if (word[i] > curr->letter) {
+        if (word[i] > curr->letter) {
             if (curr->right == 0) {
                 curr->right = new TSTNode(word[i]);
                 flag = true;

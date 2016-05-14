@@ -92,9 +92,10 @@ private:
             pq.push(make_pair(node->freq, tmp));
             pq.pop();
         }
+        
+        dfs(prefix, node->left, pq, num);
+        dfs(prefix, node->right, pq, num);
         if ((pq.size() < num)||(node->max_freq > pq.top().first)) {
-            dfs(prefix, node->left, pq, num);
-            dfs(prefix, node->right, pq, num);
             dfs(tmp, node->middle, pq, num);
         }
     }
