@@ -71,14 +71,13 @@ bool DictionaryTrie::find(std::string word) const
     int l = word.length();
     for (int i = 0; i < l; i++) {
         while (curr->letter != word[i]) {
-            if (curr == 0)
-                return false;
             if (word[i] < curr->letter)
                 curr = curr->left;
             else if (word[i] > curr->letter)
                 curr = curr->right;
-        }
-        if ((i == (l-1)) && (curr->freq == 0)
+            if (curr == 0)
+                return false;
+        if ((i == (l-1)) && (curr->freq == 0))
             return false;
         curr = curr->middle;
     }
