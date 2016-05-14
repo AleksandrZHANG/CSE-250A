@@ -77,6 +77,7 @@ bool DictionaryTrie::find(std::string word) const
                 curr = curr->right;
             if (curr == 0)
                 return false;
+        }
         if ((i == (l-1)) && (curr->freq == 0))
             return false;
         curr = curr->middle;
