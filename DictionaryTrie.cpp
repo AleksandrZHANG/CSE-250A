@@ -28,8 +28,22 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
     int l = word.length();
     int i = 0;
     while(i < l) {
-        if (word[i] == curr->letter) {
-            if (i == (l-1)) {
+        if (word[i] < curr->letter) {
+            if (curr->left == 0) {
+                curr->left = new TSTNode(word[i]);
+                flag = true;
+            }
+            curr = curr->left;
+        }
+        else if (word[i] > curr->letter) {
+            if (curr->right == 0) {
+                curr->right = new TSTNode(word[i]);
+                flag = true;
+            }
+            curr = curr->right;
+        }
+        else {
+           if (i == (l-1)) {
                 if (curr->freq == 0) {
                     curr->freq = freq;
                     flag = true;
@@ -41,21 +55,6 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
                 flag = true;
             }
             curr = curr->middle;
-            i++;
-        }
-        if (word[i] < curr->letter) {
-            if (curr->left == 0) {
-                curr->left = new TSTNode(word[i]);
-                flag = true;
-            }
-            curr = curr->left;
-        }
-        if (word[i] > curr->letter) {
-            if (curr->right == 0) {
-                curr->right = new TSTNode(word[i]);
-                flag = true;
-            }
-            curr = curr->right;
         }
     }
     return flag;
