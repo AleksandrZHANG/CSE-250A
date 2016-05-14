@@ -96,7 +96,7 @@ bool DictionaryTrie::find(std::string word) const
  */
 std::vector<std::string> DictionaryTrie::predictCompletions(std::string prefix, unsigned int num_completions)
 {
-    std::priority_queue< std::pair<unsigned int, std::string> > pq;
+    std::priority_queue<std::pair<unsigned int, std::string>,std::vector<std::pair<unsigned int, std::string> >, compare> pq;
     std::vector<std::string> words;
     TSTNode* curr = root;
     if (root == 0) {

@@ -17,7 +17,13 @@
  *  or a ternary search trie, but you must use one or the other.
  *
  */
-
+class compare {
+public:
+    bool operator()(std::pair<unsigned int, std::string>& a,
+                    std::pair<unsigned int, std::string>& b) const {
+        return (a < b);
+    }
+};
 class DictionaryTrie
 {
 public:
@@ -50,7 +56,7 @@ public:
     /* Destructor */
     ~DictionaryTrie();
     
-public:
+private:
     // Add your own data members and methods here
     class TSTNode{
     public:
@@ -66,15 +72,19 @@ public:
     TSTNode* root;
     
     void dfs(std::string & prefix, TSTNode* node,
-             std::priority_queue< std::pair<unsigned int, std::string> > & pq,
+             std::priority_queue<std::pair<unsigned int, std::string>,std::vector<std::pair<unsigned int, std::string> >, compare> & pq,
              unsigned int num) {
         if (node == 0) {
             return;
         }
         std::string tmp = prefix;
         tmp.push_back(node->letter);
-        if (node->freq != 0) {
+        if ((node->freq != 0)&&(pq.size() < num)) {
             pq.push(make_pair(node->freq, tmp));
+        }
+        else if ((node->freq != 0)&&(node->freq > pq.top().first)) {
+            pq.push(make_pair(node->freq, tmp));
+            pq.pop();
         }
         dfs(prefix, node->left, pq, num);
         dfs(tmp, node->middle, pq, num);
