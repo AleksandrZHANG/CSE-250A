@@ -28,6 +28,7 @@ bool DictionaryTrie::insert(std::string word, unsigned int freq)
             curr->max_freq = freq;
         }
         if (word[i] == curr->letter) {
+
             if (i == (l-1)) {
                 if (curr->freq == 0) {
                     curr->freq = freq;
@@ -70,19 +71,15 @@ bool DictionaryTrie::find(std::string word) const
     int l = word.length();
     for (int i = 0; i < l; i++) {
         while (curr->letter != word[i]) {
-            if (word[i] < curr->letter) {
+            if (word[i] < curr->letter)
                 curr = curr->left;
-            }
-            else if (word[i] > curr->letter) {
+            else if (word[i] > curr->letter)
                 curr = curr->right;
-            }
-            if (curr == 0) {
+            if (curr == 0)
                 return false;
-            }
         }
-        if ((i == (l-1)) && (curr->freq == 0)) {
+        if ((i == (l-1)) && (curr->freq == 0))
             return false;
-        }
         curr = curr->middle;
     }
     return true;
